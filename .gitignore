@@ -1,0 +1,53 @@
+# --------------------
+# Python
+# --------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+env
+
+# --------------------
+# Model and Data Files
+# --------------------
+
+# Llama2 model files
+Model
+
+# FAISS index file
+data/faiss_index.bin
+
+# --------------------
+# IDEs and Editors
+# --------------------
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# --------------------
+# Operating System Files
+# --------------------
+
+# macOS
+.DS_Store
+
+# --------------------
+# Logs and Temporary Files
+# --------------------
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.bak
+faiss_index.bin

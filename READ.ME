@@ -1,0 +1,61 @@
+# Setup python
+## Install home brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+nano ~/.zshrc
+# Append to file
+eval "$(/opt/homebrew/bin/brew shellenv)"
+# Reload shell
+source ~/.zshrc
+
+brew update
+brew install python
+
+nano ~/.zshrc
+# Append to file
+alias python='python3'
+alias pip='pip3'
+
+# Reload
+source ~/.zshrc
+
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install transformers sentencepiece torch torchvision torchaudio
+
+# Create virtual enviroment
+python -m venv env
+source env/bin/activate
+
+pip install --upgrade pip
+pip install torch torchvision torchaudio
+
+# Register with hugging face and request access
+https://huggingface.co/meta-llama/Llama-2-70b-hf
+
+# Once granted access to llama2 create an api token
+# Add token to download_llama.py
+
+# Convert data to use in rag 
+# About rag https://aws.amazon.com/what-is/retrieval-augmented-generation/
+
+pip install transformers sentence-transformers faiss-cpu torch sentencepiece
+pip install protobuf
+pip install 'accelerate>=0.26.0'
+
+your_project/
+├── Model/
+│   ├── config.json
+│   └── ... (other model files)
+├── data/
+│   └── rag_documents.jsonl
+└── rag_script.py
+
+
+# Prompt output contains spelling mistakes
+
+pip install textblob
+python -m textblob.download_corpora
+
+
+pip install --upgrade transformers sentence-transformers torch faiss-cpu pyspellchecker textblob

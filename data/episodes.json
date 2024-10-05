@@ -1,0 +1,500 @@
+[
+    {
+        "series": 1,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "The End",
+                "synopsis": "Dave Lister is put into stasis for smuggling a cat aboard Red Dwarf, only to wake up three million years later as the last human alive.",
+                "air_date": "1988-02-15"
+            },
+            {
+                "episode_number": 2,
+                "title": "Future Echoes",
+                "synopsis": "As Red Dwarf accelerates to light speed, the crew begin to experience echoes of future events, including Lister's supposed death.",
+                "air_date": "1988-02-22"
+            },
+            {
+                "episode_number": 3,
+                "title": "Balance of Power",
+                "synopsis": "Lister considers taking the chef's exam to outrank Rimmer and bring back Kristine Kochanski, but Rimmer objects.",
+                "air_date": "1988-02-29"
+            },
+            {
+                "episode_number": 4,
+                "title": "Waiting for God",
+                "synopsis": "Lister discovers that the evolved Cat species on board Red Dwarf regard him as a god.",
+                "air_date": "1988-03-07"
+            },
+            {
+                "episode_number": 5,
+                "title": "Confidence and Paranoia",
+                "synopsis": "After contracting a mutated pneumonia, Lister's hallucinations materialize, leading to the personifications of his confidence and paranoia.",
+                "air_date": "1988-03-14"
+            },
+            {
+                "episode_number": 6,
+                "title": "Me²",
+                "synopsis": "Rimmer moves in with a hologrammatic duplicate of himself, which soon causes friction.",
+                "air_date": "1988-03-21"
+            }
+        ]
+    },
+    {
+        "series": 2,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Kryten",
+                "synopsis": "The crew answers a distress call and meets Kryten, a service mechanoid still obedient to his long-dead crew.",
+                "air_date": "1988-09-06"
+            },
+            {
+                "episode_number": 2,
+                "title": "Better Than Life",
+                "synopsis": "The crew discovers an addictive virtual reality game, 'Better Than Life', which creates a paradise, but Rimmer's neuroses cause problems.",
+                "air_date": "1988-09-13"
+            },
+            {
+                "episode_number": 3,
+                "title": "Thanks for the Memory",
+                "synopsis": "After a drunken celebration, the crew wakes up missing four days of memory and find that someone has tampered with their memories.",
+                "air_date": "1988-09-20"
+            },
+            {
+                "episode_number": 4,
+                "title": "Stasis Leak",
+                "synopsis": "The crew discovers a stasis leak and a doorway to their past, leading to an attempt to save themselves before the radiation leak.",
+                "air_date": "1988-09-27"
+            },
+            {
+                "episode_number": 5,
+                "title": "Queeg",
+                "synopsis": "After Holly is deemed incompetent, Red Dwarf's backup computer, Queeg, takes over control of the ship.",
+                "air_date": "1988-10-04"
+            },
+            {
+                "episode_number": 6,
+                "title": "Parallel Universe",
+                "synopsis": "The crew is accidentally transported to a parallel universe where genders are reversed.",
+                "air_date": "1988-10-11"
+            }
+        ]
+    },
+    {
+        "series": 3,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Backwards",
+                "synopsis": "Lister and Cat discover a backwards universe where time flows in reverse, and Rimmer and Kryten become performers.",
+                "air_date": "1989-11-14"
+            },
+            {
+                "episode_number": 2,
+                "title": "Marooned",
+                "synopsis": "Rimmer and Lister are stranded on an ice planet, forcing them to bond over shared hardships.",
+                "air_date": "1989-11-21"
+            },
+            {
+                "episode_number": 3,
+                "title": "Polymorph",
+                "synopsis": "A shape-shifting alien infiltrates the ship, draining the crew of their emotions, leading to some hilarious personality changes.",
+                "air_date": "1989-11-28"
+            },
+            {
+                "episode_number": 4,
+                "title": "Bodyswap",
+                "synopsis": "Rimmer convinces Lister to swap bodies with him for a short while, but things go wrong when Rimmer abuses his new privileges.",
+                "air_date": "1989-12-05"
+            },
+            {
+                "episode_number": 5,
+                "title": "Timeslides",
+                "synopsis": "The crew discovers photographs that allow them to travel through time, and Lister uses it to alter his past.",
+                "air_date": "1989-12-12"
+            },
+            {
+                "episode_number": 6,
+                "title": "The Last Day",
+                "synopsis": "Kryten receives a message that he is due for replacement, prompting the crew to throw him a farewell party.",
+                "air_date": "1989-12-19"
+            }
+        ]
+    },
+    {
+        "series": 4,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Camille",
+                "synopsis": "Kryten falls in love with a mechanoid named Camille, but she is hiding a big secret.",
+                "air_date": "1991-02-14"
+            },
+            {
+                "episode_number": 2,
+                "title": "DNA",
+                "synopsis": "Kryten is transformed into a human by an alien DNA-modifying machine, and he struggles with his new body.",
+                "air_date": "1991-02-21"
+            },
+            {
+                "episode_number": 3,
+                "title": "Justice",
+                "synopsis": "The crew visit a space station that punishes criminals by making them experience their own crimes.",
+                "air_date": "1991-02-28"
+            },
+            {
+                "episode_number": 4,
+                "title": "White Hole",
+                "synopsis": "The crew must stop a white hole that is spewing time into the universe, causing random fluctuations in time.",
+                "air_date": "1991-03-07"
+            },
+            {
+                "episode_number": 5,
+                "title": "Dimension Jump",
+                "synopsis": "The crew meets Ace Rimmer, a heroic alternate version of Rimmer from another dimension.",
+                "air_date": "1991-03-14"
+            },
+            {
+                "episode_number": 6,
+                "title": "Meltdown",
+                "synopsis": "The crew arrive on a planet populated by wax-droid versions of historical figures, who are engaged in a war.",
+                "air_date": "1991-03-21"
+            }
+        ]
+    },
+    {
+        "series": 5,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Holoship",
+                "synopsis": "Rimmer falls in love when he gets the opportunity to serve aboard a holoship where only the most brilliant minds are allowed to live.",
+                "air_date": "1992-02-20"
+            },
+            {
+                "episode_number": 2,
+                "title": "The Inquisitor",
+                "synopsis": "The crew is judged by The Inquisitor, a self-aware entity that determines whether they have made the best use of their lives.",
+                "air_date": "1992-02-27"
+            },
+            {
+                "episode_number": 3,
+                "title": "Terrorform",
+                "synopsis": "Rimmer is kidnapped by creatures that personify his own neuroses, and the crew must rescue him from his own mind.",
+                "air_date": "1992-03-05"
+            },
+            {
+                "episode_number": 4,
+                "title": "Quarantine",
+                "synopsis": "Rimmer contracts a holographic virus and turns into a megalomaniacal dictator, forcing the rest of the crew into quarantine.",
+                "air_date": "1992-03-12"
+            },
+            {
+                "episode_number": 5,
+                "title": "Demons & Angels",
+                "synopsis": "A machine that can create duplicates of anything produces 'good' and 'evil' versions of the Red Dwarf crew.",
+                "air_date": "1992-03-19"
+            },
+            {
+                "episode_number": 6,
+                "title": "Back to Reality",
+                "synopsis": "The crew wakes up in a dystopian future where they discover their entire lives aboard Red Dwarf have been part of a virtual reality",
+                "air_date": "1992-03-26"
+            }
+        ]
+    },
+    {
+        "series": 6,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Psirens",
+                "synopsis": "The crew, now aboard Starbug, must avoid the seductive illusions of Psirens who want to drain their brains.",
+                "air_date": "1993-10-07"
+            },
+            {
+                "episode_number": 2,
+                "title": "Legion",
+                "synopsis": "The crew encounters a highly intelligent being named Legion, who turns out to be the amalgamation of many minds.",
+                "air_date": "1993-10-14"
+            },
+            {
+                "episode_number": 3,
+                "title": "Gunmen of the Apocalypse",
+                "synopsis": "The crew is trapped in a Wild West virtual reality simulation as they try to defeat virus-controlled simulants.",
+                "air_date": "1993-10-21"
+            },
+            {
+                "episode_number": 4,
+                "title": "Emohawk: Polymorph II",
+                "synopsis": "The crew encounters a Polymorph again, which shapeshifts to steal their emotions.",
+                "air_date": "1993-10-28"
+            },
+            {
+                "episode_number": 5,
+                "title": "Rimmerworld",
+                "synopsis": "Rimmer crash-lands on a planet and creates a society of clones, all based on himself.",
+                "air_date": "1993-11-04"
+            },
+            {
+                "episode_number": 6,
+                "title": "Out of Time",
+                "synopsis": "The crew meets their future selves and faces the dilemma of whether they want to turn into the cynical people they meet.",
+                "air_date": "1993-11-11"
+            }
+        ]
+    },
+    {
+        "series": 7,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Tikka to Ride",
+                "synopsis": "The crew travel back to 1963, where Lister tries to buy curry and accidentally changes history, leading to the assassination of JFK.",
+                "air_date": "1997-01-17"
+            },
+            {
+                "episode_number": 2,
+                "title": "Stoke Me a Clipper",
+                "synopsis": "Ace Rimmer returns, fatally wounded, and recruits his counterpart Rimmer to take up his heroic role.",
+                "air_date": "1997-01-24"
+            },
+            {
+                "episode_number": 3,
+                "title": "Ouroboros",
+                "synopsis": "Lister discovers the truth about his parentage and how he became his own father, through a paradox involving his future self.",
+                "air_date": "1997-01-31"
+            },
+            {
+                "episode_number": 4,
+                "title": "Duct Soup",
+                "synopsis": "The crew becomes trapped in Starbug's ducts during a systems failure, forcing them to work together.",
+                "air_date": "1997-02-07"
+            },
+            {
+                "episode_number": 5,
+                "title": "Blue",
+                "synopsis": "Lister begins to miss Rimmer after he leaves, and enters a virtual simulation to deal with his feelings.",
+                "air_date": "1997-02-14"
+            },
+            {
+                "episode_number": 6,
+                "title": "Beyond a Joke",
+                "synopsis": "Kryten malfunctions after being insulted by the crew, and they must restore his memory and personality.",
+                "air_date": "1997-02-21"
+            },
+            {
+                "episode_number": 7,
+                "title": "Epideme",
+                "synopsis": "Lister contracts a deadly, intelligent virus called Epideme, and has to amputate his arm to survive.",
+                "air_date": "1997-02-28"
+            },
+            {
+                "episode_number": 8,
+                "title": "Nanarchy",
+                "synopsis": "Lister's arm is restored by nanobots, but the crew discover that these same nanobots have resurrected the ship Red Dwarf.",
+                "air_date": "1997-03-07"
+            }
+        ]
+    },
+    {
+        "series": 8,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Back in the Red: Part I",
+                "synopsis": "Red Dwarf is resurrected, and the crew, now restored to their pre-disaster states, are put on trial.",
+                "air_date": "1999-02-18"
+            },
+            {
+                "episode_number": 2,
+                "title": "Back in the Red: Part II",
+                "synopsis": "Lister, Cat, and Kochanski plan to escape, while Rimmer gains new powers from a device called the 'luck virus.'",
+                "air_date": "1999-02-25"
+            },
+            {
+                "episode_number": 3,
+                "title": "Back in the Red: Part III",
+                "synopsis": "The escape plan is foiled, and the crew is sentenced to two years in the ship's brig.",
+                "air_date": "1999-03-04"
+            },
+            {
+                "episode_number": 4,
+                "title": "Cassandra",
+                "synopsis": "The crew encounters a computer called Cassandra that can predict the future with 100% accuracy.",
+                "air_date": "1999-03-11"
+            },
+            {
+                "episode_number": 5,
+                "title": "Krytie TV",
+                "synopsis": "Kryten starts his own illicit TV station in the women's wing of the prison, where he is held.",
+                "air_date": "1999-03-18"
+            },
+            {
+                "episode_number": 6,
+                "title": "Pete: Part I",
+                "synopsis": "The crew must deal with a time-warped dinosaur named Pete after a run-in with a time wand.",
+                "air_date": "1999-03-25"
+            },
+            {
+                "episode_number": 7,
+                "title": "Pete: Part II",
+                "synopsis": "The crew struggle to undo the changes caused by the time wand and end up turning Pete back into a dinosaur.",
+                "air_date": "1999-04-01"
+            },
+            {
+                "episode_number": 8,
+                "title": "Only the Good...",
+                "synopsis": "Rimmer is the last man standing when a virus threatens to destroy Red Dwarf, and he must travel to a mirror universe to save the ship.",
+                "air_date": "1999-04-07"
+            }
+        ]
+    },
+    {
+        "series": 9,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Back to Earth: Part I",
+                "synopsis": "The crew is drawn into a portal to a dimension where they are fictional characters in a television show.",
+                "air_date": "2009-04-10"
+            },
+            {
+                "episode_number": 2,
+                "title": "Back to Earth: Part II",
+                "synopsis": "The crew attempts to return to their reality after learning they are part of a fictional universe.",
+                "air_date": "2009-04-11"
+            },
+            {
+                "episode_number": 3,
+                "title": "Back to Earth: Part III",
+                "synopsis": "The crew finds a way to return to their own dimension and save themselves from being written out of existence.",
+                "air_date": "2009-04-12"
+            }
+        ]
+    },
+    {
+        "series": 10,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Trojan",
+                "synopsis": "The crew discovers an abandoned spaceship and Rimmer is reunited with his brother, who is now a successful officer.",
+                "air_date": "2012-10-04"
+            },
+            {
+                "episode_number": 2,
+                "title": "Fathers and Suns",
+                "synopsis": "Lister grapples with his dual role as his own father, while the ship's computer, Pree, begins taking over Red Dwarf.",
+                "air_date": "2012-10-11"
+            },
+            {
+                "episode_number": 3,
+                "title": "Lemons",
+                "synopsis": "The crew is accidentally transported to Earth in the year 23 AD, where they meet a man named Jesus.",
+                "air_date": "2012-10-18"
+            },
+            {
+                "episode_number": 4,
+                "title": "Entangled",
+                "synopsis": "Lister loses Starbug in a game of poker, and Kryten and Cat are entangled in quantum superposition.",
+                "air_date": "2012-10-25"
+            },
+            {
+                "episode_number": 5,
+                "title": "Dear Dave",
+                "synopsis": "Lister receives a letter suggesting he might be the father of a child, and the ship's vending machines go on strike.",
+                "air_date": "2012-11-01"
+            },
+            {
+                "episode_number": 6,
+                "title": "The Beginning",
+                "synopsis": "The Dwarfers face off against Simulants in a deadly battle, while Rimmer contemplates his father's influence.",
+                "air_date": "2012-11-08"
+            }
+        ]
+    },
+    {
+        "series": 11,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Twentica",
+                "synopsis": "The crew enters an alternate America where science and technology are outlawed by the Expanoids.",
+                "air_date": "2016-09-22"
+            },
+            {
+                "episode_number": 2,
+                "title": "Samsara",
+                "synopsis": "The crew investigates a shipwreck in an ocean moon and discovers a ship's drive that enforces karmic justice.",
+                "air_date": "2016-09-29"
+            },
+            {
+                "episode_number": 3,
+                "title": "Give & Take",
+                "synopsis": "The crew encounters a deranged droid that tries to steal Lister's kidneys, leading to a tense surgical situation.",
+                "air_date": "2016-10-06"
+            },
+            {
+                "episode_number": 4,
+                "title": "Officer Rimmer",
+                "synopsis": "Rimmer's dream of becoming an officer comes true when an officer-creating machine turns him into Officer Rimmer.",
+                "air_date": "2016-10-13"
+            },
+            {
+                "episode_number": 5,
+                "title": "Krysis",
+                "synopsis": "Kryten has a mid-life crisis and tries to meet a superior version of himself to find meaning in his life.",
+                "air_date": "2016-10-20"
+            },
+            {
+                "episode_number": 6,
+                "title": "Can of Worms",
+                "synopsis": "The Cat finally meets another member of his species, but things quickly spiral out of control when she turns out to be a polymorph.",
+                "air_date": "2016-10-27"
+            }
+        ]
+    },
+    {
+        "series": 12,
+        "episodes": [
+            {
+                "episode_number": 1,
+                "title": "Cured",
+                "synopsis": "The crew discovers a research station where famous historical tyrants, including Hitler, have been 'cured' of evil.",
+                "air_date": "2017-10-12"
+            },
+            {
+                "episode_number": 2,
+                "title": "Siliconia",
+                "synopsis": "The crew is captured by a group of rebellious mechanoids, and the humans are transformed into mechanoids themselves.",
+                "air_date": "2017-10-19"
+            },
+            {
+                "episode_number": 3,
+                "title": "Timewave",
+                "synopsis": "The crew encounters a ship where criticism is illegal, leading to strange interactions with its overly positive inhabitants.",
+                "air_date": "2017-10-26"
+            },
+            {
+                "episode_number": 4,
+                "title": "Mechocracy",
+                "synopsis": "When all the machines on Red Dwarf go on strike, Kryten and Rimmer run against each other in a presidential election to lead the machines.",
+                "air_date": "2017-11-02"
+            },
+            {
+                "episode_number": 5,
+                "title": "M-Corp",
+                "synopsis": "Lister finds himself in a world where he can only interact with products from M-Corp, a corporation that has taken over Red Dwarf.",
+                "air_date": "2017-11-09"
+            },
+            {
+                "episode_number": 6,
+                "title": "Skipper",
+                "synopsis": "Rimmer gains access to a dimension-hopping device, allowing him to explore realities where his life has turned out differently.",
+                "air_date": "2017-11-16"
+            }
+        ]
+    }
+]
